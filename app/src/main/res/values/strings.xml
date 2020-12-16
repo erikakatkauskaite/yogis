@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YogaAppWithDB</string>
+    <string name="id_profile_button">Profile</string>
+    <string name="id_meditation_button">Ahmm</string>
+    <string name="id_plan_button">Plan</string>
+    <string name="id_courses_button">Courses</string>
+    <string name="id_world_space_button">World</string>
+    <string name="id_profile">Profile</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="activity_world_space">Yago Network</string>
+    <string name="activity_profile">My Space</string>
+    <string name="activity_saved_posts">Saved posts</string>
+</resources>

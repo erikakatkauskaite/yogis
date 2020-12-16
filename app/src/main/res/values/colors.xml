@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#085C54</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="pink">#EFAFD8</color>
+    <color name="lightBlue">#EE72ECC8</color>
+    <color name="lighterBlue">#EEE0E6E5</color>
+    <color name="mainMenuLight">#EED5F8F2</color>
+    <color name="darkBlue">#EE10DFBD</color>
+    <color name="backgroundColor">#EEA9E4D3</color>
+    <color name="firstColor">#EECDA9E4</color>
+    <color name="secondColor">#EEE46FE8</color>
+    <color name="thirdColor">#EE9BBF69</color>
+    <color name="fourthColor">#EE60D866</color>
+    <color name="fifthColor">#EECC6767</color>
+    <color name="sixthColor">#EEC81D1D</color>
+
+</resources>
